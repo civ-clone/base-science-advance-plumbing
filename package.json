@@ -13,7 +13,8 @@
   "files": [
     "Plumbing.js",
     "Plumbing.d.ts",
-    "Plumbing.js.map"
+    "Plumbing.js.map",
+    "Plumbing.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
